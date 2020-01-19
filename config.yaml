@@ -1,0 +1,4 @@
+keep:
+  email: foobar@gmail.com
+  password: changeit
+  token: THIS_IS_A_MASTER_TOKEN
